@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\5CharacterStats\bin\Debug\5CharacterStats.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\5CharacterStats\bin\Debug\5CharacterStats.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\5CharacterStats\bin\Debug\5CharacterStats.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\5CharacterStats\obj\Debug\5CharacterStats.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\5CharacterStats\obj\Debug\5CharacterStats.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\5CharacterStats\obj\Debug\5CharacterStats.pdb

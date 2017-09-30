@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\15NeighbourWars\bin\Debug\15NeighbourWars.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\15NeighbourWars\bin\Debug\15NeighbourWars.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\15NeighbourWars\bin\Debug\15NeighbourWars.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\15NeighbourWars\obj\Debug\15NeighbourWars.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\15NeighbourWars\obj\Debug\15NeighbourWars.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\15NeighbourWars\obj\Debug\15NeighbourWars.pdb

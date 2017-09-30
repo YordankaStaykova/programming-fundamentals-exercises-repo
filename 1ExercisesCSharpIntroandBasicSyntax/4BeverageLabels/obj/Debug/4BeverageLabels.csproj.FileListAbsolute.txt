@@ -1,0 +1,6 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\4BeverageLabels\bin\Debug\4BeverageLabels.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\4BeverageLabels\bin\Debug\4BeverageLabels.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\4BeverageLabels\bin\Debug\4BeverageLabels.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\4BeverageLabels\obj\Debug\4BeverageLabels.csprojResolveAssemblyReference.cache
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\4BeverageLabels\obj\Debug\4BeverageLabels.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\4BeverageLabels\obj\Debug\4BeverageLabels.pdb

@@ -1,0 +1,6 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\3MilestoKilometers\bin\Debug\3MilestoKilometers.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\3MilestoKilometers\bin\Debug\3MilestoKilometers.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\3MilestoKilometers\bin\Debug\3MilestoKilometers.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\3MilestoKilometers\obj\Debug\3MilestoKilometers.csprojResolveAssemblyReference.cache
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\3MilestoKilometers\obj\Debug\3MilestoKilometers.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\3MilestoKilometers\obj\Debug\3MilestoKilometers.pdb

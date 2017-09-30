@@ -1,0 +1,5 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\10TriangleOfNumbers\bin\Debug\10TriangleOfNumbers.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\10TriangleOfNumbers\bin\Debug\10TriangleOfNumbers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\10TriangleOfNumbers\bin\Debug\10TriangleOfNumbers.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\10TriangleOfNumbers\obj\Debug\10TriangleOfNumbers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\10TriangleOfNumbers\obj\Debug\10TriangleOfNumbers.pdb

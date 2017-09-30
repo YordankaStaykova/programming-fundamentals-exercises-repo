@@ -1,0 +1,5 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\8CaloriesCounter\bin\Debug\8CaloriesCounter.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\8CaloriesCounter\bin\Debug\8CaloriesCounter.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\8CaloriesCounter\bin\Debug\8CaloriesCounter.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\8CaloriesCounter\obj\Debug\8CaloriesCounter.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\8CaloriesCounter\obj\Debug\8CaloriesCounter.pdb

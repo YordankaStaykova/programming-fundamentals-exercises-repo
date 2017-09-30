@@ -1,0 +1,6 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\4Hotel\bin\Debug\4Hotel.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\4Hotel\bin\Debug\4Hotel.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\4Hotel\bin\Debug\4Hotel.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\4Hotel\obj\Debug\4Hotel.csprojResolveAssemblyReference.cache
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\4Hotel\obj\Debug\4Hotel.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\4Hotel\obj\Debug\4Hotel.pdb

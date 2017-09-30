@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\6IntervalOfNumbers\bin\Debug\6IntervalOfNumbers.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\6IntervalOfNumbers\bin\Debug\6IntervalOfNumbers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\6IntervalOfNumbers\bin\Debug\6IntervalOfNumbers.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\6IntervalOfNumbers\obj\Debug\6IntervalOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\6IntervalOfNumbers\obj\Debug\6IntervalOfNumbers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\6IntervalOfNumbers\obj\Debug\6IntervalOfNumbers.pdb

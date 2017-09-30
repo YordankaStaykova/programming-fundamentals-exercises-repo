@@ -1,0 +1,5 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\2ChooseADrink2\bin\Debug\2ChooseADrink2.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\2ChooseADrink2\bin\Debug\2ChooseADrink2.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\2ChooseADrink2\bin\Debug\2ChooseADrink2.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\2ChooseADrink2\obj\Debug\2ChooseADrink2.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\2ChooseADrink2\obj\Debug\2ChooseADrink2.pdb

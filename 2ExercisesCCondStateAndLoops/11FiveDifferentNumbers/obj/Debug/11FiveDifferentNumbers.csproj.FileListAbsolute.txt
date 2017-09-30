@@ -1,0 +1,5 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\11FiveDifferentNumbers\bin\Debug\11FiveDifferentNumbers.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\11FiveDifferentNumbers\bin\Debug\11FiveDifferentNumbers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\11FiveDifferentNumbers\bin\Debug\11FiveDifferentNumbers.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\11FiveDifferentNumbers\obj\Debug\11FiveDifferentNumbers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\11FiveDifferentNumbers\obj\Debug\11FiveDifferentNumbers.pdb

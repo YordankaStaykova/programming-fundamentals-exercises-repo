@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\9CountTheIntegers\bin\Debug\9CountTheIntegers.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\9CountTheIntegers\bin\Debug\9CountTheIntegers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\9CountTheIntegers\bin\Debug\9CountTheIntegers.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\9CountTheIntegers\obj\Debug\9CountTheIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\9CountTheIntegers\obj\Debug\9CountTheIntegers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\9CountTheIntegers\obj\Debug\9CountTheIntegers.pdb

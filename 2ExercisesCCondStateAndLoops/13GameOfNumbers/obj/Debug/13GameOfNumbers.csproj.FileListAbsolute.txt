@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\13GameOfNumbers\bin\Debug\13GameOfNumbers.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\13GameOfNumbers\bin\Debug\13GameOfNumbers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\13GameOfNumbers\bin\Debug\13GameOfNumbers.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\13GameOfNumbers\obj\Debug\13GameOfNumbers.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\13GameOfNumbers\obj\Debug\13GameOfNumbers.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\13GameOfNumbers\obj\Debug\13GameOfNumbers.csprojResolveAssemblyReference.cache

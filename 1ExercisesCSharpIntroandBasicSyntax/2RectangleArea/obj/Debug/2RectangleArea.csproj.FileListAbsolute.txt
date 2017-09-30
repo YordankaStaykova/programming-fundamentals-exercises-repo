@@ -1,0 +1,5 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\2RectangleArea\bin\Debug\2RectangleArea.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\2RectangleArea\bin\Debug\2RectangleArea.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\2RectangleArea\bin\Debug\2RectangleArea.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\2RectangleArea\obj\Debug\2RectangleArea.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\1ExercisesCSharpIntroandBasicSyntax\2RectangleArea\obj\Debug\2RectangleArea.pdb

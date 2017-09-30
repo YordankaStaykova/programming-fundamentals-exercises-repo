@@ -1,0 +1,6 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\1ChooseADrink\bin\Debug\1ChooseADrink.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\1ChooseADrink\bin\Debug\1ChooseADrink.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\1ChooseADrink\bin\Debug\1ChooseADrink.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\1ChooseADrink\obj\Debug\1ChooseADrink.csprojResolveAssemblyReference.cache
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\1ChooseADrink\obj\Debug\1ChooseADrink.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\1ChooseADrink\obj\Debug\1ChooseADrink.pdb

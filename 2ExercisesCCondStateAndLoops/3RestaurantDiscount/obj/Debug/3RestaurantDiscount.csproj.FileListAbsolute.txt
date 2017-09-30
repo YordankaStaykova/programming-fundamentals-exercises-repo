@@ -1,0 +1,6 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\3RestaurantDiscount\bin\Debug\3RestaurantDiscount.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\3RestaurantDiscount\bin\Debug\3RestaurantDiscount.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\3RestaurantDiscount\bin\Debug\3RestaurantDiscount.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\3RestaurantDiscount\obj\Debug\3RestaurantDiscount.csprojResolveAssemblyReference.cache
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\3RestaurantDiscount\obj\Debug\3RestaurantDiscount.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\2ExercisesCCondStateAndLoops\3RestaurantDiscount\obj\Debug\3RestaurantDiscount.pdb
