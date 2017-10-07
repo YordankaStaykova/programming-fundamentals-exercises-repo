@@ -1,0 +1,5 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\6StringsAndObjects\bin\Debug\6StringsAndObjects.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\6StringsAndObjects\bin\Debug\6StringsAndObjects.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\6StringsAndObjects\bin\Debug\6StringsAndObjects.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\6StringsAndObjects\obj\Debug\6StringsAndObjects.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\6StringsAndObjects\obj\Debug\6StringsAndObjects.pdb

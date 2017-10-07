@@ -1,0 +1,5 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\3PracticeCharsAndStrings\bin\Debug\3PracticeCharsAndStrings.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\3PracticeCharsAndStrings\bin\Debug\3PracticeCharsAndStrings.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\3PracticeCharsAndStrings\bin\Debug\3PracticeCharsAndStrings.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\3PracticeCharsAndStrings\obj\Debug\3PracticeCharsAndStrings.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\3PracticeCharsAndStrings\obj\Debug\3PracticeCharsAndStrings.pdb

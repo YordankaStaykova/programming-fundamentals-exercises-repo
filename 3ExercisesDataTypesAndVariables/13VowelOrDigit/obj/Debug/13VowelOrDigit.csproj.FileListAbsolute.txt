@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\13VowelOrDigit\bin\Debug\13VowelOrDigit.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\13VowelOrDigit\bin\Debug\13VowelOrDigit.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\13VowelOrDigit\bin\Debug\13VowelOrDigit.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\13VowelOrDigit\obj\Debug\13VowelOrDigit.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\13VowelOrDigit\obj\Debug\13VowelOrDigit.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\13VowelOrDigit\obj\Debug\13VowelOrDigit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\16ComparingFloats\bin\Debug\16ComparingFloats.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\16ComparingFloats\bin\Debug\16ComparingFloats.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\16ComparingFloats\bin\Debug\16ComparingFloats.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\16ComparingFloats\obj\Debug\16ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\16ComparingFloats\obj\Debug\16ComparingFloats.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\16ComparingFloats\obj\Debug\16ComparingFloats.pdb

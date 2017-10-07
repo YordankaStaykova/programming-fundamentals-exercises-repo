@@ -1,0 +1,5 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\12RectangleProperties\bin\Debug\12RectangleProperties.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\12RectangleProperties\bin\Debug\12RectangleProperties.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\12RectangleProperties\bin\Debug\12RectangleProperties.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\12RectangleProperties\obj\Debug\12RectangleProperties.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\12RectangleProperties\obj\Debug\12RectangleProperties.pdb

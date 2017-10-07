@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\15FastPrimeCheckerRefactor\bin\Debug\15FastPrimeCheckerRefactor.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\15FastPrimeCheckerRefactor\bin\Debug\15FastPrimeCheckerRefactor.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\15FastPrimeCheckerRefactor\bin\Debug\15FastPrimeCheckerRefactor.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\15FastPrimeCheckerRefactor\obj\Debug\15FastPrimeCheckerRefactor.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\15FastPrimeCheckerRefactor\obj\Debug\15FastPrimeCheckerRefactor.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\15FastPrimeCheckerRefactor\obj\Debug\15FastPrimeCheckerRefactor.csprojResolveAssemblyReference.cache

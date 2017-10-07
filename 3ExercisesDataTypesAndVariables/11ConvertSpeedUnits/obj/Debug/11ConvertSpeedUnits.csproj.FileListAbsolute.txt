@@ -1,0 +1,6 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\11ConvertSpeedUnits\bin\Debug\11ConvertSpeedUnits.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\11ConvertSpeedUnits\bin\Debug\11ConvertSpeedUnits.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\11ConvertSpeedUnits\bin\Debug\11ConvertSpeedUnits.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\11ConvertSpeedUnits\obj\Debug\11ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\11ConvertSpeedUnits\obj\Debug\11ConvertSpeedUnits.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\11ConvertSpeedUnits\obj\Debug\11ConvertSpeedUnits.pdb

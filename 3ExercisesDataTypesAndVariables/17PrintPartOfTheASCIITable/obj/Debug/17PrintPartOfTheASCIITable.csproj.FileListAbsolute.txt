@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\17PrintPartOfTheASCIITable\bin\Debug\17PrintPartOfTheASCIITable.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\17PrintPartOfTheASCIITable\bin\Debug\17PrintPartOfTheASCIITable.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\17PrintPartOfTheASCIITable\bin\Debug\17PrintPartOfTheASCIITable.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\17PrintPartOfTheASCIITable\obj\Debug\17PrintPartOfTheASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\17PrintPartOfTheASCIITable\obj\Debug\17PrintPartOfTheASCIITable.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\17PrintPartOfTheASCIITable\obj\Debug\17PrintPartOfTheASCIITable.pdb

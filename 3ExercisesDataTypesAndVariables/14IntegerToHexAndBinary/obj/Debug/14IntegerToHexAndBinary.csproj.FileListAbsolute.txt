@@ -1,0 +1,5 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\14IntegerToHexAndBinary\obj\Debug\14IntegerToHexAndBinary.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\14IntegerToHexAndBinary\obj\Debug\14IntegerToHexAndBinary.pdb

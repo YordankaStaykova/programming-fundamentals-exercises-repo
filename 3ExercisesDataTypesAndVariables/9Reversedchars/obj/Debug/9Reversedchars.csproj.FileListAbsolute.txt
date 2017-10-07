@@ -1,0 +1,5 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\9Reversedchars\bin\Debug\9Reversedchars.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\9Reversedchars\bin\Debug\9Reversedchars.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\9Reversedchars\bin\Debug\9Reversedchars.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\9Reversedchars\obj\Debug\9Reversedchars.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\9Reversedchars\obj\Debug\9Reversedchars.pdb

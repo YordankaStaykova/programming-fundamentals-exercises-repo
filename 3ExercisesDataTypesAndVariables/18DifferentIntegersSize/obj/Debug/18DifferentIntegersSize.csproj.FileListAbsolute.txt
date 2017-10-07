@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\18DifferentIntegersSize\bin\Debug\18DifferentIntegersSize.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\18DifferentIntegersSize\obj\Debug\18DifferentIntegersSize.pdb

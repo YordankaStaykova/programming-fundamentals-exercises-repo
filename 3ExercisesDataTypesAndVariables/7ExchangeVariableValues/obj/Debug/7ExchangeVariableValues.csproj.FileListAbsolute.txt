@@ -1,0 +1,5 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\7ExchangeVariableValues\bin\Debug\7ExchangeVariableValues.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\7ExchangeVariableValues\bin\Debug\7ExchangeVariableValues.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\7ExchangeVariableValues\bin\Debug\7ExchangeVariableValues.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\7ExchangeVariableValues\obj\Debug\7ExchangeVariableValues.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\7ExchangeVariableValues\obj\Debug\7ExchangeVariableValues.pdb

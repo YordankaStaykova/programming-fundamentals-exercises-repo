@@ -1,0 +1,5 @@
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\10CenturiesToNanoseconds\bin\Debug\10CenturiesToNanoseconds.exe.config
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\10CenturiesToNanoseconds\bin\Debug\10CenturiesToNanoseconds.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\10CenturiesToNanoseconds\bin\Debug\10CenturiesToNanoseconds.pdb
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\10CenturiesToNanoseconds\obj\Debug\10CenturiesToNanoseconds.exe
+c:\users\yordanka staykova\documents\visual studio 2017\Projects\3ExercisesDataTypesAndVariables\10CenturiesToNanoseconds\obj\Debug\10CenturiesToNanoseconds.pdb
