@@ -1,6 +1,0 @@
-C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\15DebuggingExerciseSubstring\bin\Debug\15DebuggingExerciseSubstring.exe.config
-C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\15DebuggingExerciseSubstring\bin\Debug\15DebuggingExerciseSubstring.exe
-C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\15DebuggingExerciseSubstring\bin\Debug\15DebuggingExerciseSubstring.pdb
-C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\15DebuggingExerciseSubstring\obj\Debug\15DebuggingExerciseSubstring.csprojResolveAssemblyReference.cache
-C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\15DebuggingExerciseSubstring\obj\Debug\15DebuggingExerciseSubstring.exe
-C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\15DebuggingExerciseSubstring\obj\Debug\15DebuggingExerciseSubstring.pdb
