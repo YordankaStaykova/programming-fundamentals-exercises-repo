@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\4NumbersInReversedOrder\obj\Debug\4NumbersInReversedOrder.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\4NumbersInReversedOrder\bin\Debug\4NumbersInReversedOrder.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\4NumbersInReversedOrder\bin\Debug\4NumbersInReversedOrder.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\4NumbersInReversedOrder\bin\Debug\4NumbersInReversedOrder.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\4NumbersInReversedOrder\obj\Debug\4NumbersInReversedOrder.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\4NumbersInReversedOrder\obj\Debug\4NumbersInReversedOrder.pdb

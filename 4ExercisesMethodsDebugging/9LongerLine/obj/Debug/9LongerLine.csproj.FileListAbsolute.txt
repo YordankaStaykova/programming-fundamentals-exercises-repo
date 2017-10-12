@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\9LongerLine\obj\Debug\9LongerLine.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\9LongerLine\bin\Debug\9LongerLine.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\9LongerLine\bin\Debug\9LongerLine.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\9LongerLine\bin\Debug\9LongerLine.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\9LongerLine\obj\Debug\9LongerLine.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\9LongerLine\obj\Debug\9LongerLine.pdb

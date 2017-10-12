@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\2MaxMethod\obj\Debug\2MaxMethod.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\2MaxMethod\bin\Debug\2MaxMethod.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\2MaxMethod\bin\Debug\2MaxMethod.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\2MaxMethod\bin\Debug\2MaxMethod.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\2MaxMethod\obj\Debug\2MaxMethod.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\2MaxMethod\obj\Debug\2MaxMethod.pdb

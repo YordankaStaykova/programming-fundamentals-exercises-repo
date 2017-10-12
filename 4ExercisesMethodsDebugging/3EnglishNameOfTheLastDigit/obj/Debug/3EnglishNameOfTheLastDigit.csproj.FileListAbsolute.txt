@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\3EnglishNameOfTheLastDigit\bin\Debug\3EnglishNameOfTheLastDigit.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\3EnglishNameOfTheLastDigit\bin\Debug\3EnglishNameOfTheLastDigit.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\3EnglishNameOfTheLastDigit\bin\Debug\3EnglishNameOfTheLastDigit.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\3EnglishNameOfTheLastDigit\obj\Debug\3EnglishNameOfTheLastDigit.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\3EnglishNameOfTheLastDigit\obj\Debug\3EnglishNameOfTheLastDigit.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\3EnglishNameOfTheLastDigit\obj\Debug\3EnglishNameOfTheLastDigit.pdb

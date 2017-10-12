@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\10CubeProperties\bin\Debug\10CubeProperties.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\10CubeProperties\bin\Debug\10CubeProperties.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\10CubeProperties\bin\Debug\10CubeProperties.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\10CubeProperties\obj\Debug\10CubeProperties.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\10CubeProperties\obj\Debug\10CubeProperties.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\10CubeProperties\obj\Debug\10CubeProperties.pdb

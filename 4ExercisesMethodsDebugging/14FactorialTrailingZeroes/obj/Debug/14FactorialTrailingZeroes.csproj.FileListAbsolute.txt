@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\14FactorialTrailingZeroes\bin\Debug\14FactorialTrailingZeroes.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\14FactorialTrailingZeroes\bin\Debug\14FactorialTrailingZeroes.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\14FactorialTrailingZeroes\bin\Debug\14FactorialTrailingZeroes.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\14FactorialTrailingZeroes\obj\Debug\14FactorialTrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\14FactorialTrailingZeroes\obj\Debug\14FactorialTrailingZeroes.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\14FactorialTrailingZeroes\obj\Debug\14FactorialTrailingZeroes.pdb

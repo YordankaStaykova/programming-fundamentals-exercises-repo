@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\7PrimesInGivenRange\obj\Debug\7PrimesInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\7PrimesInGivenRange\bin\Debug\7PrimesInGivenRange.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\7PrimesInGivenRange\bin\Debug\7PrimesInGivenRange.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\7PrimesInGivenRange\bin\Debug\7PrimesInGivenRange.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\7PrimesInGivenRange\obj\Debug\7PrimesInGivenRange.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\7PrimesInGivenRange\obj\Debug\7PrimesInGivenRange.pdb

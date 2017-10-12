@@ -1,0 +1,6 @@
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\11GeometryCalculator\bin\Debug\11GeometryCalculator.exe.config
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\11GeometryCalculator\bin\Debug\11GeometryCalculator.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\11GeometryCalculator\bin\Debug\11GeometryCalculator.pdb
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\11GeometryCalculator\obj\Debug\11GeometryCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\11GeometryCalculator\obj\Debug\11GeometryCalculator.exe
+C:\Users\Yordanka Staykova\documents\visual studio 2017\Projects\4ExercisesMethodsDebugging\11GeometryCalculator\obj\Debug\11GeometryCalculator.pdb
